@@ -38,7 +38,7 @@ mv composer.phar /usr/local/bin/composer
 You can then install the Bootstrap Application using the following command:
 
 ```
-composer global require "fxp/composer-asset-plugin:1.0.0"
+composer global require "fxp/composer-asset-plugin:1.1.0"
 composer create-project --prefer-dist yiisoft/yii2-app-benchmark yii-benchmark
 ```
 
