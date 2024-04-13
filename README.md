@@ -27,11 +27,11 @@ The minimum requirement by Yii is that your Web server supports PHP 5.4.0.
 INSTALLATION
 ------------
 
-If you do not have [Composer](http://getcomposer.org/), you may download it from
-[http://getcomposer.org/](http://getcomposer.org/) or run the following command on Linux/Unix/MacOS:
+If you do not have [Composer](https://getcomposer.org/), you may download it from
+[https://getcomposer.org/](https://getcomposer.org/) or run the following command on Linux/Unix/MacOS:
 
 ```
-curl -s http://getcomposer.org/installer | php
+curl -s https://getcomposer.org/installer | php
 mv composer.phar /usr/local/bin/composer
 ```
 
